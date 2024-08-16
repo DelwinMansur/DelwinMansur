@@ -70,3 +70,24 @@ h1 {
 .hidden {
   display: none;
 }
+.title-new-review{
+  margin-top: 50px;
+  text-align:center;
+}
+.textarea{
+  width: 100%;
+}
+.button-add-review{
+  display: flex;
+  align-items: center;
+}
+.add-title{
+  width: 100%;
+  margin-bottom: 7px;
+}
+label{
+  font-size: 10px;
+}
+#img-resize-50 {
+  width: 50%; 
+}
